@@ -1,6 +1,18 @@
 This LinkedList project was a course project when I took CS 162 at Oregon State Univ. I enjoyed this project a lot and decided to leave it here as a start of my scratches.
 
-The below was the project description:
+I also added some scratches py files while I was watching the Harvard CS50 course on YouTube.
+
+
+
+
+
+
+
+
+
+
+
+The below was the linked list project description:
 
 Write a LinkedList class that has **recursive** implementations of the `add` and `remove` methods described in the Exploration.  It should also have **recursive** implementations of the `contains`, `insert`, and `reverse` methods described in the exercises.  The reverse method should **not** change the _data_ value each node holds - it must rearrange the order of the nodes in the linked list (by changing the _next_ value each node holds).
 
