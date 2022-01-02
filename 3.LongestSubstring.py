@@ -37,4 +37,4 @@ for c in s:
             res = len(word)
     else:
         word = word[word.find(c) + 1:] + c
-return res
+# return res
