@@ -5,3 +5,8 @@ class Solution:
         if s == s[::-1]:
             return True
         else: return False
+
+# ever better:
+ def isPalindrome(self, x: int) -> bool:
+        s=str(x)
+        return s==s[::-1]
